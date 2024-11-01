@@ -6,6 +6,9 @@ Engineer with a background in embedded systems and electronics. Currently lookin
 # 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesterlxy@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesterlxy/)
+# ⚡ Fun fact
+My hobbies include building mechanical keyboards and playing the guitar.
+
 <!--
 **lesterlxy/lesterlxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
