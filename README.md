@@ -22,6 +22,7 @@ badges from https://badges.pages.dev/
 ![LabVIEW Badge](https://img.shields.io/badge/LabVIEW-FFDB00?logo=labview&logoColor=000&style=flat)
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat)
 ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat)
+![TrueNAS Badge](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=fff&style=flat)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 ![Mikrotik Badge](https://img.shields.io/badge/Mikrotik-293239?logo=mikrotik&logoColor=fff&style=flat)
 ![Ansible Badge](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat)
