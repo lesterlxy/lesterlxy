@@ -48,8 +48,6 @@ badges from https://shields.io/badges
 icons from https://simpleicons.org/
 -->
 
-[![Gmail: lesterlxy@gmail.com](https://img.shields.io/badge/-lesterlxy-red?style=flat&logo=Gmail&logoColor=white&link=mailto:lesterlxy@gmail.com)](mailto:lesterlxy@gmail.com)
-[![Linkedin: lesterlxy](https://img.shields.io/badge/-lesterlxy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lesterlxy/)](https://www.linkedin.com/in/lesterlxy/)
 [![Telegram: wolretsel](https://img.shields.io/badge/-wolretsel-deepskyblue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/wolretsel)](https://t.me/wolretsel)
 
 ## ⚡ Fun fact
